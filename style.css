@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#mainlogin {
+    background-color: rgb(244, 244, 244);
+    height: 500px;
+    width: 800px;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 10px;
+}
+
+#firstdiv {
+    /* border: 1px solid black; */
+    /* height: 500px; */
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Noto Sans NKo', sans-serif;
+}
+
+#seconddiv {
+    /* border: 1px solid black; */
+    /* height: 500px; */
+    padding: 0px;
+    margin: 0px;
+}
+
+#inputbars {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#inputs {
+    border: .2px solid grey;
+    border-radius: 4px;
+    outline: none;
+    padding: 2px 5px;
+    width: 250px;
+    font-size: .8rem;
+    margin-left: 5px;
+    transition: all .4s;
+}
+
+#inputs:hover {}
